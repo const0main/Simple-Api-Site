@@ -1,0 +1,408 @@
+body {
+    background: #131316;
+}
+.info-node{
+    /* A modern java bytecode obfuscator support for java 8 */
+
+
+position: absolute;
+width: 898px;
+height: 43px;
+left: 511px;
+top: 380px;
+
+font-family: 'VK Sans Display';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+
+color: #FFFFFF;
+}
+
+.name-node{
+    /* Cloud */
+
+
+position: absolute;
+width: 138px;
+height: 60px;
+left: 870px;
+top: 270px;
+
+font-family: 'VK Sans Display';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 60px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.cloud2{
+    transition: 0.5s;
+    position: absolute;
+    width: 56px;
+    height: 24px;
+    left: 59px;
+    top: 15px;
+    
+    text-decoration: none;
+
+    font-family: 'VK Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height */
+    color: white;   
+
+}
+
+.cloud2:hover{
+    transition: 0.5s;
+    text-shadow: 3px 3px 3px #5C5AF9;
+    
+}
+
+.purchase{
+    /* Rectangle 1 */
+
+    transition: 0.5s;
+box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 41px;
+left: 847px;
+top: 500px;
+
+font-family: 'VK Sans Display';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 25px;
+
+color: #5C5AF9;
+
+background-color: rgba(0, 0, 0, 0);
+
+border: 2px solid #5C5AF9;
+border-radius: 11px;
+}
+
+.purchase:hover{
+    transition: 0.5s;
+    background-color: #5C5AF9;
+    color: white;
+}
+
+.shadow-rect{
+    /* Rectangle 2 */
+
+
+position: absolute;
+width: 100%;
+height: 2px;
+left: 0px;
+top: 580px;
+
+background: #000000;
+box-shadow: 0px 1px 4px 2px rgba(0, 0, 0, 0.25);
+}
+
+.media-node{
+    /* Media Here are some highlights that show how Paramorphism can conceal your intellectual property from reverse engineers: */
+
+
+position: absolute;
+width: 1190px;
+height: 120px;
+left: 511px;
+top: 600px;
+
+font-family: 'VK Sans Display';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 30px;
+
+color: #FFFFFF;
+}
+
+.icon{
+    position: absolute;
+width: 177px;
+height: 177px;
+left: 855px;
+top: 100px;
+
+}
+
+.nav-rect{
+    /* Rectangle 3 */
+
+
+position: absolute;
+width: 100%;
+height: 55px;
+left: 0px;
+top: 0px;
+
+background: #0F0E0E;
+}
+.icon3{
+    position: absolute;
+width: 44px;
+height: 44px;
+left: 13px;
+top: 6px;
+
+
+}
+
+.cloud{
+    position: absolute;
+    width: 56px;
+    height: 24px;
+    left: 59px;
+    top: -4px;
+    
+    font-family: 'VK Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height */
+    color: white;
+}
+.pricings{
+    /* Pricing */
+
+
+position: absolute;
+width: 63px;
+height: 24px;
+left: 153px;
+top: -4px;
+
+font-family: 'VK Sans Display';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.doc{
+    position: absolute;
+width: 144px;
+height: 24px;
+left: 254px;
+top: -4px;
+
+font-family: 'VK Sans Display';
+font-style: normal;
+font-weight: 400;
+color: white;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+}
+
+.log{
+    transition: 0.5s;
+    position: absolute;
+width: 107px;
+height: 24px;
+left: 436px;
+top: 16px;
+
+color: white;
+
+font-family: 'VK Sans Display';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+text-decoration: none;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.log:hover{
+    transition: 0.5s;
+    text-shadow: 3px 3px 3px #5C5AF9;
+}
+
+.rect1{
+    /* Rectangle 4 */
+
+transition: 0.5s;
+position: absolute;
+width: 610px;
+height: 491px;
+left: 160px;
+top: 87px;
+
+background: #0E0E0E;
+border-radius: 15px;
+}
+
+.rect1:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0 25px 5px #5C5AF9;
+
+}
+
+.changelog1{
+
+
+position: absolute;
+width: 280px;
+height: 72px;
+left: 30px;
+top: 10px;
+
+font-family: 'VK Sans Display';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+
+.rect2{
+    /* Rectangle 5 */
+
+transition: 0.5s;
+position: absolute;
+width: 610px;
+height: 491px;
+left: 160px;
+top: 610px;
+
+background: #0E0E0E;
+border-radius: 15px;
+}
+
+.changelog2{    
+    position: relative;
+    left: 30px;
+    top: 10px;
+}
+
+.rect2:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0 25px 5px #5C5AF9;
+
+}
+
+.original{
+    position: absolute;
+width: 85px;
+height: 29px;
+left: 511px;
+top: 800px;
+
+font-family: 'VK Sans Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+.original-rect{
+    /* Rectangle 4 */
+    
+
+
+position: absolute;
+width: 519px;
+height: 125px;
+left: 511px;
+top: 880px;
+
+background: #0e0e0e;
+border-radius: 6px;
+}
+.original-text{
+    /* public class HelloWorld { public static void main(String[] args) { System.out.println("Hello, world!"); }} */
+
+
+position: absolute;
+width: 288px;
+height: 95px;
+left: 20px;
+top: 500;
+
+font-family: 'VK Sans Display';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #EF62F2;
+}
+
+.obf-rect{
+    /* Rectangle 5 */
+
+
+position: absolute;
+width: 519px;
+height: 150px;
+left: 511px;
+top: 1080px;
+
+background: #0e0e0e;
+border-radius: 6px;
+}
+
+.obf{
+    position: absolute;
+    width: 85px;
+    height: 29px;
+    left: 511px;
+    top: 1000px;
+    
+    font-family: 'VK Sans Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+
+.obf-text{
+    
+position: absolute;
+width: 480px;
+height: 95px;
+left: 20px;
+top: 1px;
+
+font-family: 'VK Sans Display';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #EF62F2;
+}
